@@ -8,7 +8,7 @@ Check it out! 👇 <br/>
 ## Getting started
 
 - Git clone on this repository (*HTTPS*): <br/>
-> git clone [https://github.com/murillo-nahas/f1schedule-server.git](https://github.com/murillo-nahas/koajs-server-example.git)
+> git clone [https://github.com/murillo-nahas/koajs-server-example.git](https://github.com/murillo-nahas/koajs-server-example.git)
 
 - Install all the dependencies: <br/>
 > npm install or yarn add
