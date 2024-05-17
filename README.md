@@ -1,8 +1,8 @@
-## Creating a simple server with Node.js, TypeScript and Koa.js
+## Creating a simple http server with Node.js, TypeScript and Koa.js
 
 This repository was created from my Medium article about Koa.js. <br/>
 
-Check it out! 👇 <br/>
+Check it out below! 👇 <br/>
 [Article](https://medium.com/@murillonahas2003/creating-a-simple-server-with-node-js-typescript-and-koa-js-292d53a9457e)
 
 ## Getting started
@@ -24,7 +24,7 @@ Check it out! 👇 <br/>
 
 ## Motivation
 
-This repository will teach you how to create a simple Koa.js server with a in-memory CRUD.
+This repository will teach you how to create a simple Koa.js server with a in-memory CRUD, serving as a boilerplate for future projects.
 
 ## Contributing
 
